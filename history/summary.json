@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ruhr.vegan-street-day.d.ico",
     "slug": "vegan-street-day-ruhr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.89%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "98.89%",
     "time": 2409,
     "timeDay": 2409,
     "timeWeek": 2409,
     "timeMonth": 2409,
     "timeYear": 2409,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-24": 0
+    }
   }
 ]
