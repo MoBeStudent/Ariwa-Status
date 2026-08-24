@@ -9,7 +9,7 @@ sites:
   - name: Vegan Street Day Stuttgart
     url: https://stuttgart.vegan-street-day.de/
   - name: Vegan Street Day Ruhr
-    url: https://ruhr.vegan-street-day.de
+    url: https://ruhr.vegan-street-day.d
 
 status-website:
   cname: status.ariwa.org
