@@ -14,7 +14,7 @@ sites:
     url: https://ruhr.vegan-street-day.de/
 
 status-website:
-  cname: null
+  cname: status.ariwa.org
   name: ARIWA Systemstatus
   introTitle: "**Systemstatus der ARIWA Webseiten**"
   introMessage: Hier überwachen wir die Erreichbarkeit unserer Plattformen und Aktions-Seiten.
