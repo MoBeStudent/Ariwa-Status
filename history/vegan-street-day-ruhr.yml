@@ -1,7 +1,7 @@
 url: https://ruhr.vegan-street-day.de/
-status: up
-code: 200
-responseTime: 1157
-lastUpdated: 2026-08-25T00:39:51.224Z
+status: down
+code: 503
+responseTime: 288
+lastUpdated: 2026-08-25T00:41:52.255Z
 startTime: 2026-08-24T23:25:33.444Z
 generator: Upptime <https://github.com/upptime/upptime>
