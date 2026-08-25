@@ -17,3 +17,7 @@ status-website:
   introTitle: "**Systemstatus der ARIWA Webseiten**"
   introMessage: Hier überwachen wir die Erreichbarkeit unserer Plattformen und Aktions-Seiten.
   logoUrl: https://www.ariwa.org/wp-content/uploads/2018/10/ariwa-animal-rights-watch-logo.png
+notifications:
+  - type: slack
+     webhook-url: $SLACK_WEBHOOK
+     channel: "#website-status"
