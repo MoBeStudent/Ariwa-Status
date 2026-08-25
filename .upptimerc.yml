@@ -11,7 +11,7 @@ sites:
   - name: Vegan Street Day Stuttgart
     url: https://stuttgart.vegan-street-day.de/
   - name: Vegan Street Day Ruhr
-    url: https://ruhr.vegan-street-day.de
+    url: https://ruhr.vegan-street-day.de/
 
 status-website:
   cname: status.ariwa.org
@@ -23,3 +23,4 @@ status-website:
 notifications:
   - type: slack
     webhook-url: $SLACK_WEBHOOK
+    channel: "website-status"
