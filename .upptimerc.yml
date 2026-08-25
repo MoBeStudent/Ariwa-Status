@@ -2,6 +2,8 @@ owner: MoBeStudent
 repo: Ariwa-Status
 
 sites:
+  - name: ARIWA AktivCloud
+    url: https://aktivcloud.ariwa.org/
   - name: ARIWA Website
     url: https://www.ariwa.org/
   - name: Biowahrheit
@@ -9,7 +11,7 @@ sites:
   - name: Vegan Street Day Stuttgart
     url: https://stuttgart.vegan-street-day.de/
   - name: Vegan Street Day Ruhr
-    url: https://ruhr.vegan-street-day.d
+    url: https://ruhr.vegan-street-day.de/
 
 status-website:
   cname: status.ariwa.org
@@ -17,11 +19,8 @@ status-website:
   introTitle: "**Systemstatus der ARIWA Webseiten**"
   introMessage: Hier überwachen wir die Erreichbarkeit unserer Plattformen und Aktions-Seiten.
   logoUrl: https://www.ariwa.org/wp-content/uploads/2018/10/ariwa-animal-rights-watch-logo.png
+
 notifications:
   - type: slack
-     webhook-url: $SLACK_WEBHOOK
-     channel: "#website-status"
-     on:
-      - down
-      - up
-      - degraded
+    webhook-url: $SLACK_WEBHOOK
+    channel: "#website-status"
