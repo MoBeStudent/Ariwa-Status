@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 1740,
     "timeDay": 3746,
-    "timeWeek": 1978,
+    "timeWeek": 2092,
     "timeMonth": 1740,
     "timeYear": 1740,
     "dailyMinutesDown": {}
@@ -22,15 +22,15 @@
     "url": "https://www.ariwa.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ariwa.org.ico",
     "slug": "ariwa-website",
-    "status": "up",
-    "uptime": "93.84%",
-    "uptimeDay": "78.98%",
-    "uptimeWeek": "92.61%",
-    "uptimeMonth": "93.84%",
-    "uptimeYear": "93.84%",
+    "status": "down",
+    "uptime": "94.19%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "94.19%",
+    "uptimeYear": "94.19%",
     "time": 1865,
-    "timeDay": 905,
-    "timeWeek": 3046,
+    "timeDay": 1112,
+    "timeWeek": 3234,
     "timeMonth": 1865,
     "timeYear": 1865,
     "dailyMinutesDown": {
@@ -40,7 +40,8 @@
       "2026-09-01": 2,
       "2026-08-31": 210,
       "2026-09-04": 351,
-      "2026-09-03": 33
+      "2026-09-03": 33,
+      "2026-09-05": 15
     }
   },
   {
@@ -48,15 +49,15 @@
     "url": "https://www.biowahrheit.de/",
     "icon": "https://icons.duckduckgo.com/ip3/www.biowahrheit.de.ico",
     "slug": "biowahrheit",
-    "status": "up",
-    "uptime": "94.96%",
-    "uptimeDay": "79.32%",
-    "uptimeWeek": "94.19%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "status": "down",
+    "uptime": "95.26%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "94.09%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "95.26%",
     "time": 1078,
-    "timeDay": 1100,
-    "timeWeek": 1131,
+    "timeDay": 1214,
+    "timeWeek": 1179,
     "timeMonth": 1078,
     "timeYear": 1078,
     "dailyMinutesDown": {
@@ -65,7 +66,8 @@
       "2026-09-01": 2,
       "2026-08-31": 205,
       "2026-09-04": 346,
-      "2026-09-03": 32
+      "2026-09-03": 32,
+      "2026-09-05": 10
     }
   },
   {
@@ -73,15 +75,15 @@
     "url": "https://stuttgart.vegan-street-day.de/",
     "icon": "https://icons.duckduckgo.com/ip3/stuttgart.vegan-street-day.de.ico",
     "slug": "vegan-street-day-stuttgart",
-    "status": "up",
-    "uptime": "95.44%",
-    "uptimeDay": "79.65%",
-    "uptimeWeek": "94.29%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "95.44%",
+    "status": "down",
+    "uptime": "95.73%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "95.73%",
+    "uptimeYear": "95.73%",
     "time": 1226,
-    "timeDay": 1247,
-    "timeWeek": 1054,
+    "timeDay": 1415,
+    "timeWeek": 1069,
     "timeMonth": 1226,
     "timeYear": 1226,
     "dailyMinutesDown": {
@@ -90,7 +92,8 @@
       "2026-09-01": 3,
       "2026-08-31": 200,
       "2026-09-04": 341,
-      "2026-09-03": 32
+      "2026-09-03": 32,
+      "2026-09-05": 5
     }
   },
   {
@@ -98,15 +101,15 @@
     "url": "https://ruhr.vegan-street-day.de/",
     "icon": "https://icons.duckduckgo.com/ip3/ruhr.vegan-street-day.de.ico",
     "slug": "vegan-street-day-ruhr",
-    "status": "up",
-    "uptime": "95.48%",
-    "uptimeDay": "79.99%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "95.48%",
-    "uptimeYear": "95.48%",
+    "status": "down",
+    "uptime": "95.80%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "95.80%",
+    "uptimeYear": "95.80%",
     "time": 2044,
-    "timeDay": 1213,
-    "timeWeek": 1210,
+    "timeDay": 1384,
+    "timeWeek": 1240,
     "timeMonth": 2044,
     "timeYear": 2044,
     "dailyMinutesDown": {
@@ -116,7 +119,8 @@
       "2026-09-01": 3,
       "2026-08-31": 195,
       "2026-09-04": 336,
-      "2026-09-03": 32
+      "2026-09-03": 32,
+      "2026-09-05": 0
     }
   }
 ]
